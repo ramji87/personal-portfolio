@@ -367,6 +367,11 @@ footer {
   margin: 0
 }
 
+#about ul {
+  color: #74808a;
+  margin: 0
+}
+
 #experience {
   padding: 50px 15px;
   text-align: center;
